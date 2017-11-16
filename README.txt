@@ -31,4 +31,3 @@ DOCUMENTATION:
 
 - The documentation included with this project is in the "docs" folder, in the form of a PDF file.
 
-This game won first place in the Dalhousie University High School Programming Competition. Yay! :D
